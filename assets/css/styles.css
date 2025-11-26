@@ -431,6 +431,7 @@ a {
     height: 393px;
     object-fit: cover;
     cursor: pointer;
+    border-radius: 8px;
 }
 
 .courses-list .course-item .course-img:hover {
